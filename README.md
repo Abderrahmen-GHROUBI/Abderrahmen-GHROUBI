@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **all about Web Development , DevOps and AI**
 
-- 👨‍💻 All of my projects are available at [*********](*************))
-
 - 💬 Ask me about **Angular,SpringBoot,Java,ReactJs, NextJs, NodeJs,  ExpressJs, MongoDB, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **Abderrahmen.Ghroubi@enicar.ucar.tn**
