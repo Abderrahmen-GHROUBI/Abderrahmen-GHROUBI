@@ -26,6 +26,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abderrahmen-GHROUBI&show_icons=true&locale=en&layout=compact" alt="Abderrahmen-GHROUBI" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Abderrahmen-GHROUBI&show_icons=true&locale=en" alt="Abderrahmen-GHROUBI" width="50%" height="100%" align="right" />
+
 </p>
 
