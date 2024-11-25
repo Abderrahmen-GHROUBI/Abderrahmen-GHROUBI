@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **all about Web Development , DevOps and AI**
 
-- 💬 Ask me about **Angular,SpringBoot,Java,ReactJs, NextJs, NodeJs,  ExpressJs, MongoDB, HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript,TypeScript, Angular, SpringBoot, ReactJs, NextJs, Java**
 
 - 📫 How to reach me **Abderrahmen.Ghroubi@enicar.ucar.tn**
 
