@@ -7,10 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=aymen-khanfir&label=Profile%20views&color=0e75b6&style=flat" alt="Abderrahmen-Ghroubi" /> 
 </p>
 
-- 🌱 I’m currently learning **all about Web Development, DevOps and AI**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Angular, Spring Boot, ReactJs, NextJs, Java**
-
 - 📫 How to reach me **Abderrahmen.Ghroubi@enicar.ucar.tn**
 
 <h3 align="left">Connect with me:</h3>
